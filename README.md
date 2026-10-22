@@ -1,8 +1,8 @@
 # NeetCode Solutions — @leahzabad
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-> only saves correct submissions
-> see my answers to all neetcode problems!
+* Only saves correct submissions
+* See my answers to all neetcode problems!
 
 ---
 

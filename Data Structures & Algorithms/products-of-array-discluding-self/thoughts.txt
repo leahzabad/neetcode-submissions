@@ -1,0 +1,8 @@
+products of array except self:
+
+initial thoughts was the naive solution of O(n^2) where just multiply everything not in that index and put it in the array
+
+read the hint of using division, realized you could just divide the sum by the integer at that index to get the correct product, so solution is now O(n + n), which simplifies to O(n)
+
+did not account for zeros! if you have one zero, then the returned array is all zeros except at that one index.
+if you have more than one zero the returned array is just zeros.
